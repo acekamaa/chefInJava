@@ -1,4 +1,4 @@
-package advancedSorting.specialSortingRules;
+package advancedSorting.thisIsComparator.specialSortingRules;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

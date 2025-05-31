@@ -1,4 +1,4 @@
-package advancedSorting.usingLambda;
+package advancedSorting.thisIsComparator.usingLambda;
 import java.util.ArrayList;
 import java.util.Collections;
 
